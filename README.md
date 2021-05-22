@@ -1,6 +1,6 @@
 - 👋 Hi, I’m kay 
 - 👀 I’m interested in #everything
-- 🌱 I’m currently learning php
+- 🌱 I’m currently learning blockchain
 - 💞️ I’m looking to collaborate on #interesting projects
 - 📫 Reach me at 11kodykay11@gmail.com
 
